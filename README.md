@@ -21,3 +21,10 @@
    <a href="https://velog.io/@geuna_park/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 </p>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geunapark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+
